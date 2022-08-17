@@ -50,7 +50,7 @@ const productsArray = [
         description: 'This is iPhone 12 Pro Max',
         type: 'phone',
         capacity: 128,
-        price: 849,
+        price: 819,
         image: '/images/6.jpg',
     },
 ]
